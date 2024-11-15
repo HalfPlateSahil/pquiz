@@ -1,0 +1,1675 @@
+<!DOCTYPE html><html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" style="--color--primary-hue:202;--color--primary-saturation:79%;--color--primary-lightness:50"><head>
+    <meta charset="utf-8">
+<meta name="description" content="Take this quiz to discover your dosha, and then explore how it affects your everyday life!">
+<link rel="canonical" href="https://kripalu.org/content/whats-your-dosha">
+<link rel="image_src" href="https://kripalu.org/sites/default/files/styles/og_image/public/whats-your-dosha-reference-1200x628.jpg?itok=m5LLYz4I">
+<meta property="og:site_name" content="Kripalu">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://kripalu.org/content/whats-your-dosha">
+<meta property="og:title" content="What’s Your Dosha?">
+<meta property="og:description" content="Take this quiz to discover your dosha, and then explore how it affects your everyday life!">
+<meta property="og:image" content="images/nutlkRvGqubc.jpg">
+<meta property="og:image:url" content="images/nutlkRvGqubc.jpg">
+<meta property="og:image:secure_url" content="images/nutlkRvGqubc.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="640">
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="ML6EsxXKaNql.ico" type="image/vnd.microsoft.icon">
+<link rel="alternate" hreflang="en" href="https://kripalu.org/content/whats-your-dosha">
+
+    <title>What’s Your Dosha?</title>
+    <link rel="stylesheet" media="all" href="css/DALbOZxN5VHx.css">
+<link rel="stylesheet" media="all" href="css/RpmsgqVatm7J.css">
+
+        <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TN9ZHR');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '370598633349600');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=370598633349600&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+    <script type="text/javascript">
+      window.__lo_site_id = 'e43d746a';
+      (function() {
+        var wa = document.createElement('script');
+        wa.type = 'text/javascript'; wa.async = true;
+        wa.src = 'https://d20519brkbo4nz.cloudfront.net/core/lo.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wa, s);
+      })();
+    </script>
+        
+    
+<link rel="preload" href="/core/themes/olivero/fonts/metropolis/Metropolis-Regular.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="/core/themes/olivero/fonts/metropolis/Metropolis-SemiBold.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="/core/themes/olivero/fonts/metropolis/Metropolis-Bold.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="/core/themes/olivero/fonts/lora/lora-v14-latin-regular.woff2" as="font" type="font/woff2" crossorigin="">
+    <noscript><link rel="stylesheet" href="/core/themes/olivero/css/components/navigation/nav-primary-no-js.css?smjcm4" />
+</noscript>
+  </head>
+  <body class="contentwhats-your-dosha path-node page-node-type-general-page">
+        <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8WTR7Q"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+            <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <div class="alert bs-site-alert alert-success" role="alert"><p><a href="https://kripalu.org/content/new-kripalu-campus"><strong>Named Top Retreat by Condé Nast Traveler and Oprah Daily!</strong></a></p></div>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+
+
+
+<!-- Header/Banner -->
+  
+<div class="region region-header">
+	<header role="banner" class="outer-wraper global-header" data-module="globalNav">
+		<section class="inner-wrapper">
+			<div class="global-header__logo span-3">
+				<a href="/" aria-label="Go to homepage">
+					<img src="images/uLZFfjj7BoJ3.svg" alt="Kripalu logo">
+				</a>
+			</div>
+
+			<div class="lines-box">
+				<button class="lines-button x" type="button" role="button">
+					<span class="lines"></span>
+					<span class="visually-hidden">Menu</span>
+				</button>
+			</div>
+
+			<nav class="global-header__utilities span-3" aria-label="Utility Navigation">
+				<ul class="global-header__icons">
+					<li class="global-header__icons__search" data-module="globalSearch">
+						<div class="global-header__search-form">
+							              <form class="views-exposed-form form--inline" data-drupal-selector="views-exposed-form-search-page-1" action="/search" method="get" id="views-exposed-form-search-page-1" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-item-search js-form-item-search form-no-label">
+        <input placeholder="Enter your keywords" aria-label="Enter your keywords" data-drupal-selector="edit-search" type="text" id="edit-search" name="search" value="" size="30" maxlength="128" class="form-text form-element form-element--type-text form-element--api-textfield">
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="button--primary button js-form-submit form-submit" aria-label="Search" data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Search">
+</div>
+
+
+</form>
+
+							<a href="/search" data-icon="search" aria-label="Perform Search"></a>
+						</div>
+
+					</li>
+				</ul>
+			</nav>
+			<nav class="global-header__main-nav span-9" aria-label="Main Navigation">
+				
+          <ul class="menu menu--level-1">
+            
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-1 menu__item--has-children" data-mlid="1">
+                    
+          <a href="" class="menu__link menu__link--link menu__link--level-1 menu__link--has-children">On Campus</a>
+
+                                <ul class="menu menu--level-2">
+            
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="1">
+                    
+          <a href="https://kripalu.org/presenters-programs?f%5B0%5D=field_denoprog_program%253Afield_program_type%3A25461" class="menu__link menu__link--link menu__link--level-2">Programs</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="2">
+                    
+          <a href="/content/kripalu-retreat-renewal" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/77641">Retreat &amp; Renewal</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="3">
+                    
+          <a href="/content/healing-arts" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/436">Healing Arts</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="4">
+                    
+          <a href="https://kripalu.org/content/campus-guest-student-guide" class="menu__link menu__link--link menu__link--level-2">Guest &amp; Student Guide</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="5">
+                    
+          <a href="/content/berkshire-area-resident-discounts" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/29516">Berkshire-Area Resident Discount</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="6">
+                    
+          <a href="/content/how-plan-your-visit" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/5366126">How to Plan Your Visit</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2 menu__item--has-children" data-mlid="7">
+                    
+          <a href="/" class="menu__link menu__link--link menu__link--level-2 menu__link--has-children" data-drupal-link-system-path="<front>">About Your Stay</a>
+
+                                <ul class="menu menu--level-3">
+            
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-3" data-mlid="1">
+                    
+          <a href="/content/guest-student-arrival-information" class="menu__link menu__link--link menu__link--level-3" data-drupal-link-system-path="node/456">Registration &amp; Arrival</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-3" data-mlid="2">
+                    
+          <a href="/content/accommodations" class="menu__link menu__link--link menu__link--level-3" data-drupal-link-system-path="node/466">Accommodations</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-3" data-mlid="3">
+                    
+          <a href="/content/directions-and-transportation" class="menu__link menu__link--link menu__link--level-3" data-drupal-link-system-path="node/17631">Directions</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-3" data-mlid="4">
+                    
+          <a href="/content/dining-kripalu" class="menu__link menu__link--link menu__link--level-3" data-drupal-link-system-path="node/516">Dining at Kripalu</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-3" data-mlid="5">
+                    
+          <a href="/content/kripalu-shop-and-cafe" class="menu__link menu__link--link menu__link--level-3" data-drupal-link-system-path="node/42667">Shop and Cafe</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-3" data-mlid="6">
+                    
+          <a href="/content/unplugged-kripalu" class="menu__link menu__link--link menu__link--level-3" data-drupal-link-system-path="node/78376">Unplugged at Kripalu</a>
+
+          
+        </li>
+          </ul>
+  
+            <span class="menu__expand">
+                <span data-icon="arrow-d"></span>
+            </span>
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2 menu__item--has-children" data-mlid="8">
+                    
+          <a href="/" class="menu__link menu__link--link menu__link--level-2 menu__link--has-children" data-drupal-link-system-path="<front>">Learn More</a>
+
+                                <ul class="menu menu--level-3">
+            
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-3" data-mlid="1">
+                    
+          <a href="/content/retreat-renewal-schedule" class="menu__link menu__link--link menu__link--level-3" data-drupal-link-system-path="node/78576">Retreat &amp; Renewal Schedule</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-3" data-mlid="2">
+                    
+          <a href="/content/covid-19-safety-protocols" class="menu__link menu__link--link menu__link--level-3" data-drupal-link-system-path="node/77636">Covid-19 Safety Protocols</a>
+
+          
+        </li>
+          </ul>
+  
+            <span class="menu__expand">
+                <span data-icon="arrow-d"></span>
+            </span>
+          
+        </li>
+          </ul>
+  
+            <span class="menu__expand">
+                <span data-icon="arrow-d"></span>
+            </span>
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-1 menu__item--has-children" data-mlid="2">
+                    
+          <a href="" class="menu__link menu__link--link menu__link--level-1 menu__link--has-children">Online</a>
+
+                                <ul class="menu menu--level-2">
+            
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="1">
+                    
+          <a href="/presenters-programs?q=presenters-programs&amp;keywords=all&amp;f%5B0%5D=field_program_type%3A25456" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-query="{&quot;f&quot;:[&quot;field_program_type:25456&quot;],&quot;keywords&quot;:&quot;all&quot;,&quot;q&quot;:&quot;presenters-programs&quot;}" data-drupal-link-system-path="node/4">Programs</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="2">
+                    
+          <a href="/presenters-programs/kripalu-online-studio-live-yoga-meditation-and-more" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/3123351">Online Studio</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="3">
+                    
+          <a href="https://kripaluonlineshop.org/" class="menu__link menu__link--link menu__link--level-2">Online Shop</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="4">
+                    
+          <a href="/content/virtual-healing-arts-services" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/74221">Virtual Healing Arts</a>
+
+          
+        </li>
+          </ul>
+  
+            <span class="menu__expand">
+                <span data-icon="arrow-d"></span>
+            </span>
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-1 menu__item--has-children" data-mlid="3">
+                    
+          <a href="" class="menu__link menu__link--link menu__link--level-1 menu__link--has-children">Programs</a>
+
+                                <ul class="menu menu--level-2">
+            
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="1">
+                    
+          <a href="/presenters-programs" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/4">On Campus &amp; Online Programs</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="2">
+                    
+          <a href="/content/kripalu-retreat-renewal" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/77641">Retreat &amp; Renewal</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="3">
+                    
+          <a href="/content/rise" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/31701">RISE</a>
+
+          
+        </li>
+          </ul>
+  
+            <span class="menu__expand">
+                <span data-icon="arrow-d"></span>
+            </span>
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-1 menu__item--has-children" data-mlid="4">
+                    
+          <a href="" class="menu__link menu__link--link menu__link--level-1 menu__link--has-children">Schools</a>
+
+                                <ul class="menu menu--level-2">
+            
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="1">
+                    
+          <a href="/content/kripalu-schools" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/176">About Schools</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="2">
+                    
+          <a href="/schools/yoga" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/18412404">School of  Yoga</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="3">
+                    
+          <a href="/content/kripalu-school-ayurveda" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/536">School of Ayurveda</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="4">
+                    
+          <a href="/content/kripalu-school-integrative-yoga-therapy" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/26106">School of Integrative Yoga Therapy</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="5">
+                    
+          <a href="/content/kripalu-school-mindful-outdoor-leadership" class="menu__link menu__link--link menu__link--level-2" data-drupal-link-system-path="node/47041">School of Mindful Outdoor Leadership</a>
+
+          
+        </li>
+          </ul>
+  
+            <span class="menu__expand">
+                <span data-icon="arrow-d"></span>
+            </span>
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-1 menu__item--has-children" data-mlid="5">
+                    
+          <a href="" class="menu__link menu__link--link menu__link--level-1 menu__link--has-children">Donate</a>
+
+                                <ul class="menu menu--level-2">
+            
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="1">
+                    
+          <a href="https://give.kripalu.org/" class="menu__link menu__link--link menu__link--level-2">Give Online</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="2">
+                    
+          <a href="https://kripalu.org/content/why-give-kripalu" class="menu__link menu__link--link menu__link--level-2">Why Give to Kripalu</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-2" data-mlid="3">
+                    
+          <a href="https://kripalu.org/content/living-why-yoga" class="menu__link menu__link--link menu__link--level-2">Living the Why in Yoga</a>
+
+          
+        </li>
+          </ul>
+  
+            <span class="menu__expand">
+                <span data-icon="arrow-d"></span>
+            </span>
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-1" data-mlid="6">
+                    
+          <a href="/content/resources" class="menu__link menu__link--link menu__link--level-1" data-drupal-link-system-path="node/22">Articles</a>
+
+          
+        </li>
+      
+                          
+        
+        
+        <li class="menu__item menu__item--link menu__item--level-1" data-mlid="7">
+                    
+          <a href="/content/about-us" class="menu__link menu__link--link menu__link--level-1" data-drupal-link-system-path="node/651">About</a>
+
+          
+        </li>
+          </ul>
+  
+
+
+			</nav>
+
+			<ul class="clearfix global-header__buttons">
+				<li class="left">
+					<a href="/about/kripalu/contact-us" data-icon="arrow-r" data-role="button">Contact Us</a>
+				</li>
+				<li class="right">
+					<a href="/content/directions-and-transportation" data-icon="arrow-r" data-role="button">Directions</a>
+				</li>
+			</ul>
+
+		</section>
+          <div class="promo-link--wrapper default">
+        <a class="promo-link--link gift-cards-flag default-img" href="/content/gift-card">
+          <span>Gift Cards</span>
+        </a>
+      </div>
+    	</header>
+
+	<div class="outer-wrapper flyout">
+    
+      <ul class="field field--name-field-flyout-items field--type-entity-reference-revisions field--label-hidden field__items">
+              <li class="field__item">
+<section class="inner-wrapper flyout__section" data-flyout="5">
+	
+
+			<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Give Now</span></div>
+  </div>
+</h3>
+<p>
+	
+  </p><div class="field field--name-field-flysec-summary field--type-string-long field--label-hidden field__items">
+        <div class="field__item">Kripalu is a 501(c)(3) nonprofit. Your gift helps create a more awakened, compassionate, and connected world.</div>
+  </div>
+<p></p>
+
+
+    <a href="/content/donate-now" data-icon="arrow-r" data-role="button">Donate Now</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Why Give to Kripalu</span></div>
+  </div>
+</h3>
+<p>
+	
+  </p><div class="field field--name-field-flysec-summary field--type-string-long field--label-hidden field__items">
+        <div class="field__item">We can see the path, but we can’t travel it without you.</div>
+  </div>
+<p></p>
+
+
+    <a href="/content/why-give-kripalu" data-icon="arrow-r" data-role="button">Learn More</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>How to Give to Kripalu</span></div>
+  </div>
+</h3>
+<p>
+	
+  </p><div class="field field--name-field-flysec-summary field--type-string-long field--label-hidden field__items">
+        <div class="field__item">Explore the different ways to support Kripalu.</div>
+  </div>
+<p></p>
+
+
+    <a href="/content/how-give-kripalu" data-icon="arrow-r" data-role="button">Ways to Give</a>
+
+		</div>
+	
+	
+	
+		<div class="quarter">
+			                            <h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>See Your Gift in Action</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/content/kripalu-numbers-2022">Kripalu By the Numbers</a></li>
+              <li class="field__item"><a href="/content/your-yoga-action">Your Donation in Action</a></li>
+              <li class="field__item"><a href="/content/living-why-yoga">Living the Why in Yoga</a></li>
+              <li class="field__item"><a href="/content/amplify-voices">Amplify Voices</a></li>
+              <li class="field__item"><a href="/content/serving-those-who-serve-others">Serving Those Who Serve Others </a></li>
+              <li class="field__item"><a href="/about/kripalu/scholarships">Scholarships &amp; Grants</a></li>
+          </ul>
+  
+
+
+            		</div>
+	</section>
+</li>
+              <li class="field__item">
+<section class="inner-wrapper flyout__section" data-flyout="7">
+	
+
+			<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>About Us</span></div>
+  </div>
+</h3>
+<p>
+	
+  </p><div class="field field--name-field-flysec-summary field--type-string-long field--label-hidden field__items">
+        <div class="field__item">For more than 50 years, Kripalu has been a leader in yoga- and mindfulness-based education. More than just poses on a mat, we believe yoga is an accessible practice that inspires connection, compassion, and joy.</div>
+  </div>
+<p></p>
+
+
+    <a href="/about/kripalu" data-icon="arrow-r" data-role="button">About Us</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Contact Us</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/about/kripalu/work-us">Employment Opportunities</a></li>
+              <li class="field__item"><a href="/donate-now">Donate</a></li>
+              <li class="field__item"><span>Call Registrations at ‭413.448.3500‬ or email at registration@kripalu.org</span></li>
+              <li class="field__item"><span>Monday–Friday 9:00 am–5:00 pm EST</span></li>
+          </ul>
+  
+
+    <a href="/about/kripalu/contact-us" data-icon="arrow-r" data-role="button">Contact Us</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Kripalu Resources</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/about/kripalu/our-history">History</a></li>
+              <li class="field__item"><a href="/content/meet-team">Meet the Team</a></li>
+              <li class="field__item"><a href="/content/equity-kripalu">Equity at Kripalu</a></li>
+              <li class="field__item"><a href="/content/land-acknowledgement">Land Acknowledgement</a></li>
+              <li class="field__item"><a href="/about/kripalu/core-values">Our Core Values</a></li>
+              <li class="field__item"><a href="/about/kripalu/media-center">Press Center</a></li>
+          </ul>
+  
+
+
+		</div>
+	
+	
+	
+		<div class="quarter">
+			                            <h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Join the Conversation</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/email-newsletters">Get Kripalu Emails</a></li>
+              <li class="field__item"><a href="/request-catalog">Request a Catalog</a></li>
+              <li class="field__item"><a href="https://www.instagram.com/kripalucenter/">Instagram</a></li>
+              <li class="field__item"><a href="https://www.facebook.com/kripalucenter/">Facebook</a></li>
+              <li class="field__item"><a href="https://twitter.com/KripaluCenter">Twitter</a></li>
+              <li class="field__item"><a href="https://www.linkedin.com/company/kripalu-center-for-yoga-and-health">LinkedIn</a></li>
+          </ul>
+  
+
+
+            		</div>
+	</section>
+</li>
+              <li class="field__item">
+<section class="inner-wrapper flyout__section" data-flyout="1">
+	
+
+			<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Join Us On Campus</span></div>
+  </div>
+</h3>
+<p>
+	
+  </p><div class="field field--name-field-flysec-summary field--type-string-long field--label-hidden field__items">
+        <div class="field__item">Come visit the Kripalu campus, nestled in the breathtaking Berkshire mountains, for a nourishing retreat full of yoga, nutritious meals, mindful outdoor experiences, and more.<br>
+</div>
+  </div>
+<p></p>
+
+
+    <a href="/content/new-kripalu-campus" data-icon="arrow-r" data-role="button">New On Campus</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Plan Your Visit</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/presenters-programs?f%5B0%5D=field_denoprog_program%253Afield_program_type%3A25461">Programs</a></li>
+              <li class="field__item"><a href="/content/kripalu-retreat-renewal">Retreat &amp; Renewal</a></li>
+              <li class="field__item"><a href="/schools">Schools</a></li>
+              <li class="field__item"><a href="/content/berkshire-area-resident-discounts">Berkshire-Area Resident Discount</a></li>
+          </ul>
+  
+
+    <a href="/content/how-plan-your-visit" data-icon="arrow-r" data-role="button">How to Plan Your Visit</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>About Your Stay</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/stay/registration-arrival">Registration &amp; Arrival</a></li>
+              <li class="field__item"><a href="/content/campus-guest-student-guide">Guest &amp; Student Guide</a></li>
+              <li class="field__item"><a href="/stay/healing-arts">Healing Arts</a></li>
+              <li class="field__item"><a href="/stay/accommodations">Accommodations</a></li>
+              <li class="field__item"><a href="/content/kripalu-kitchen">Dining</a></li>
+              <li class="field__item"><a href="/content/kripalu-shop-and-cafe">Shop &amp; Cafe</a></li>
+          </ul>
+  
+
+    <a href="/content/kripalu-campus-faq" data-icon="arrow-r" data-role="button">Campus FAQ</a>
+
+		</div>
+	
+	
+	
+		<div class="quarter">
+			                            <h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Learn More</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/content/covid-safety-protocols">Covid-19 Safety Protocols</a></li>
+              <li class="field__item"><a href="/content/directions-and-transportation">Directions &amp; Transportation</a></li>
+              <li class="field__item"><a href="/content/retreat-renewal-schedule">Retreat &amp; Renewal Schedule</a></li>
+              <li class="field__item"><a href="/content/gift-card">Gift Cards</a></li>
+              <li class="field__item"><span>Call Registrations at 413.448.3500 or email registration@kripalu.org</span></li>
+          </ul>
+  
+
+
+            		</div>
+	</section>
+</li>
+              <li class="field__item">
+<section class="inner-wrapper flyout__section" data-flyout="4">
+	
+
+			<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>About Our Schools</span></div>
+  </div>
+</h3>
+<p>
+	
+  </p><div class="field field--name-field-flysec-summary field--type-string-long field--label-hidden field__items">
+        <div class="field__item">For more than 50 years, the Kripalu has been a leader in yoga education. We offer a variety of teacher trainings both in person and online.</div>
+  </div>
+<p></p>
+
+
+    <a href="/schools" data-icon="arrow-r" data-role="button">Learn More</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Our Schools</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/schools/yoga">School of Yoga</a></li>
+              <li class="field__item"><a href="/schools/kripalu-school-ayurveda">School of Ayurveda</a></li>
+              <li class="field__item"><a href="/schools/integrative-yoga-therapy">School of Integrative Yoga Therapy </a></li>
+              <li class="field__item"><a href="/content/kripalu-school-mindful-outdoor-leadership">School of Mindful Outdoor Leadership</a></li>
+          </ul>
+  
+
+    <a href="/schools" data-icon="arrow-r" data-role="button">Apply Today</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Learn More</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/content/online-info-sessions">Free Online Information Sessions</a></li>
+              <li class="field__item"><a href="/about/kripalu/scholarships">Scholarships &amp; Grants</a></li>
+              <li class="field__item"><a href="/content/kripalu-schools-accommodations">Kripalu Schools Accommodations</a></li>
+              <li class="field__item"><a href="/content/your-donation-action">Your Donation In Action</a></li>
+              <li class="field__item"><a href="/presenters-programs/kripalu-alumni-affinity-circle">Free Online Schools Affinity Groups</a></li>
+          </ul>
+  
+
+
+		</div>
+	
+	
+	
+		<div class="quarter">
+			            		</div>
+	</section>
+</li>
+              <li class="field__item">
+<section class="inner-wrapper flyout__section" data-flyout="2">
+	
+
+			<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Find Your Center Online</span></div>
+  </div>
+</h3>
+<p>
+	
+  </p><div class="field field--name-field-flysec-summary field--type-string-long field--label-hidden field__items">
+        <div class="field__item">From dynamic presenter programs and workshops to virtual healing arts offerings, explore all Kripalu has to offer you in the comfort of your home.</div>
+  </div>
+<p></p>
+
+
+    <a href="/content/find-your-center-online" data-icon="arrow-r" data-role="button">Learn More</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Kripalu Online</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/content/upcoming-programs-workshops-and-trainings?q=presenters-programs&amp;f%5B0%5D=field_program_type%3A25456">Programs</a></li>
+              <li class="field__item"><a href="/schools">Schools</a></li>
+              <li class="field__item"><a href="/presenters-programs/kripalu-online-studio-live-yoga-meditation-and-more">Kripalu Online Studio</a></li>
+              <li class="field__item"><a href="https://kripaluonlineshop.org/">Online Shop</a></li>
+              <li class="field__item"><a href="/content/virtual-healing-arts-services">Virtual Healing Arts Services</a></li>
+          </ul>
+  
+
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>You Might Also Be Interested In</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/resources">Online Resources</a></li>
+              <li class="field__item"><a href="/content/affinity-circles">Free Affinity Circles</a></li>
+          </ul>
+  
+
+
+		</div>
+	
+	
+	
+		<div class="quarter">
+			            		</div>
+	</section>
+</li>
+              <li class="field__item">
+<section class="inner-wrapper flyout__section" data-flyout="6">
+	
+
+			<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Kripalu Articles</span></div>
+  </div>
+</h3>
+<p>
+	
+  </p><div class="field field--name-field-flysec-summary field--type-string-long field--label-hidden field__items">
+        <div class="field__item">Kripalu experts and visiting faculty share their views on yoga, health and wellness, nutrition, relationships, creativity, and spirituality.</div>
+  </div>
+<p></p>
+
+
+    <a href="/resources" data-icon="arrow-r" data-role="button">Browse Articles</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>By Topic</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/resources?im_field_resource_category=142&amp;im_field_resource_type=All&amp;keyword=">Ayurveda</a></li>
+              <li class="field__item"><a href="/resources?im_field_resource_category=150&amp;im_field_resource_type=All&amp;keyword=">Yoga</a></li>
+              <li class="field__item"><a href="/resources?im_field_resource_category=9531&amp;im_field_resource_type=All&amp;keyword=">Meditation &amp; Mindfulness</a></li>
+              <li class="field__item"><a href="/resources?im_field_resource_category=147&amp;im_field_resource_type=All&amp;keyword=">Food &amp; Nutrition</a></li>
+              <li class="field__item"><a href="/resources?im_field_resource_category=145&amp;im_field_resource_type=All&amp;keyword=">Self-Care</a></li>
+          </ul>
+  
+
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>By Type</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/resources?im_field_resource_category=All&amp;im_field_resource_type=151&amp;keyword=">Articles</a></li>
+              <li class="field__item"><a href="/resources?im_field_resource_category=All&amp;im_field_resource_type=155&amp;keyword=">Recipes</a></li>
+              <li class="field__item"><a href="/resources?im_field_resource_category=All&amp;im_field_resource_type=156&amp;keyword=">Videos</a></li>
+          </ul>
+  
+
+
+		</div>
+	
+	
+	
+		<div class="quarter">
+			                            <h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>You Might Also Be Interested In</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/wallpapers">Desktop and Mobile Wallpapers</a></li>
+              <li class="field__item"><a href="/resources/how-start-mandala-practice-plus-free-coloring-book">Free Coloring Book</a></li>
+              <li class="field__item"><a href="/content/equity-glossary">Equity Glossary</a></li>
+              <li class="field__item"><a href="/content/equity-resources-and-bibliography">Equity Resources and Bibliography</a></li>
+          </ul>
+  
+
+
+            		</div>
+	</section>
+</li>
+              <li class="field__item">
+<section class="inner-wrapper flyout__section" data-flyout="3">
+	
+
+			<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>On Campus &amp; Online Programs</span></div>
+  </div>
+</h3>
+<p>
+	
+  </p><div class="field field--name-field-flysec-summary field--type-string-long field--label-hidden field__items">
+        <div class="field__item">Explore upcoming programs led by Kripalu faculty and expert presenters on topics ranging from yoga to societal and personal transformation.</div>
+  </div>
+<p></p>
+
+
+    <a href="/presenters-programs" data-icon="arrow-r" data-role="button">View the Calendar</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Retreat &amp; Renewal</span></div>
+  </div>
+</h3>
+<p>
+	
+  </p><div class="field field--name-field-flysec-summary field--type-string-long field--label-hidden field__items">
+        <div class="field__item">Kripalu R&amp;R—a self-guided experience—allows you the freedom to choose what you need while you're here.</div>
+  </div>
+<p></p>
+
+
+    <a href="/content/kripalu-retreat-renewal" data-icon="arrow-r" data-role="button">Explore R&amp;R</a>
+
+		</div>
+				<div class="quarter">
+			<h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>RISE</span></div>
+  </div>
+</h3>
+<p>
+	
+  </p><div class="field field--name-field-flysec-summary field--type-string-long field--label-hidden field__items">
+        <div class="field__item">Kripalu’s evidence-based resilience program, RISE™, is anchored in the science of mindfulness, yoga, and positive psychology.</div>
+  </div>
+<p></p>
+
+
+    <a href="/rise" data-icon="arrow-r" data-role="button">Learn More</a>
+
+		</div>
+	
+	
+	
+		<div class="quarter">
+			                            <h3>
+	
+  <div class="field field--name-field-flysec-titlelink field--type-link field--label-hidden field__items">
+        <div class="field__item"><span>Learn More</span></div>
+  </div>
+</h3>
+<p>
+	
+</p>
+
+      <ul class="field field--name-field-flysec-links field--type-link field--label-hidden field__items">
+              <li class="field__item"><a href="/presenters-programs?f%5B0%5D=field_denoprog_program%253Afield_kripalu_programming%3A25521">Kripalu Signature Programs</a></li>
+              <li class="field__item"><a href="/content/scholarships-and-free-programming-0">Scholarships &amp; Free Programming</a></li>
+              <li class="field__item"><a href="/presenters-programs?f%5B0%5D=field_denoprog_program%253Afield_program_type%3A25341">Sliding Scale Tuition Programs</a></li>
+              <li class="field__item"><a href="/content/kripalu-employers-0">For Employers</a></li>
+              <li class="field__item"><a href="/content/groups">For Groups</a></li>
+              <li class="field__item"><a href="/content/sacred-artist-residency">Sacred Artist Residency</a></li>
+          </ul>
+  
+
+
+            		</div>
+	</section>
+</li>
+          </ul>
+  
+	</div>
+</div>
+
+<div class="header-nav-overlay" data-drupal-selector="header-nav-overlay"></div>
+
+
+<div class="page-frame">
+    <!-- Main content area -->
+    <main role="main">
+                  <div class="outer-wrapper breadcrumbs">
+              <div class="inner-wrapper">
+                	<!-- Breadcrumb Navigation -->
+	<nav aria-label="Breadcrumb">
+		<h2 class="element-invisible">You are here</h2>
+		<div class="breadcrumb">
+							<li class="breadcrumb__item">
+											<a href="/" class="breadcrumb__link">Home</a>
+									</li>
+					</div>
+	</nav>
+
+              </div>
+          </div>
+        
+        <!-- Featured content (if any) -->
+        
+        <!-- Action Links -->
+        
+        <!-- Primary page content -->
+                    <section class="page-content">
+                
+  <div class="region region-content" id="content">
+    <div data-drupal-messages-fallback="" class="hidden messages-list"></div>
+
+<div id="block-kripalud10-theme-system-main" class="block block-system block-system-main-block">
+  
+    
+      <div class="block__content">
+      
+
+<article data-history-node-id="54156" class="node node--type-general-page node--view-mode-full">
+  
+  
+  <div class="node__content">
+    <section class="outer-wrapper">
+      <section class="inner-wrapper section-header-image">
+                <img src="images/1YUrXKlk99f6.jpg">
+                <div class="section-header-image__text">
+          <h1>
+<span>What’s Your Dosha?</span>
+</h1>
+          <h2>
+  <div class="field field--name-field-gp-subtitle field--type-string field--label-hidden field__items">
+        <div class="field__item">Take the quiz!</div>
+  </div></h2>
+        </div>
+      </section>
+    </section>
+
+    <section class="outer-wrapper">
+      <section class="inner-wrapper main-content">
+        <div class="span-9 center">
+                    
+  <div class="text-content clearfix field field--name-field-gp-body field--type-text-long field--label-hidden field__items">
+        <div class="field__item"><p>The ancient health science of <strong><a href="https://kripalu.org/resources/what-ayurveda-anyway">Ayurveda</a></strong> is built around the five elements of ether, air, fire, water, and earth. The unique combination of these elements come together to make up the <strong><a href="https://kripalu.org/resources/ayurvedic-doshas">doshas</a></strong>, or constitutions—vata, pitta, and kapha. Each dosha has a number of corresponding qualities that are expressed in the physical, emotional, and mental aspects of one’s being. All of us have some aspects of each dosha, but one or two doshas tend to dominate, informing everything from our <strong><a href="https://kripalu.org/resources/ayurvedic-wisdom-better-digestion">digestion</a></strong> to our <strong><a href="https://kripalu.org/resources/ayurvedic-eating-tips-balance-energy-and-emotions">emotions</a></strong>.</p>
+
+<p>Take this quiz to discover your dosha, and then explore how it affects your everyday life!</p>
+
+<form action="" id="doshaquiz" method="post" name="doshaquiz">
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>1. Which of these best describes your physical frame?</strong><br>
+<label><input form="doshaquiz" id="vata1" name="question1" onclick="getTotal()" type="radio" value="1"> Small</label><br>
+<label><input form="doshaquiz" id="pitta1" name="question1" onclick="getTotal()" type="radio" value="1"> Medium</label><br>
+<label><input form="doshaquiz" id="kapha1" name="question1" onclick="getTotal()" type="radio" value="1"> Large</label></div>
+
+<div class="col-xs-12 col-md-6 b20">&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>2. Which best describes your skin?</strong><br>
+<label><input form="doshaquiz" id="pitta2" name="question2" onclick="getTotal()" type="radio" value="1"> Oily and soft with freckles or pimples</label><br>
+<label><input form="doshaquiz" id="kapha2" name="question2" onclick="getTotal()" type="radio" value="1"> Thick, oily, cool skin</label><br>
+<label><input form="doshaquiz" id="vata2" name="question2" onclick="getTotal()" type="radio" value="1"> Dry</label></div>
+
+<div class="col-xs-12 col-md-6 b20">&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>3. Which best describes your hair?</strong><br>
+<label><input form="doshaquiz" id="pitta3" name="question3" onclick="getTotal()" type="radio" value="1"> Straight and fine</label><br>
+<label><input form="doshaquiz" id="kapha3" name="question3" onclick="getTotal()" type="radio" value="1"> Thick and lustrous</label><br>
+<label><input form="doshaquiz" id="vata3" name="question3" onclick="getTotal()" type="radio" value="1"> Dry and curly</label></div>
+
+<div class="col-xs-12 col-md-6 b20">&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>4. Which best describes your eyes?</strong><br>
+<label><input form="doshaquiz" id="kapha4" name="question4" onclick="getTotal()" type="radio" value="1"> Large, pretty</label><br>
+<label><input form="doshaquiz" id="vata4" name="question4" onclick="getTotal()" type="radio" value="1"> Small and dry</label><br>
+<label><input form="doshaquiz" id="pitta4" name="question4" onclick="getTotal()" type="radio" value="1"> Medium-sized; intense gaze</label></div>
+
+<div class="col-xs-12 col-md-6 b20">&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>5. Which best describes how you talk?</strong><br>
+<label><input form="doshaquiz" id="vata5" name="question5" onclick="getTotal()" type="radio" value="1"> Fast and/or a lot!</label><br>
+<label><input form="doshaquiz" id="pitta5" name="question5" onclick="getTotal()" type="radio" value="1"> My words are sharp and concise.</label><br>
+<label><input form="doshaquiz" id="kapha5" name="question5" onclick="getTotal()" type="radio" value="1"> My speech is slow and calm.</label></div>
+
+<div class="col-xs-12 col-md-6 b20">&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>6. What type of weather is your favorite?</strong><br>
+<label><input form="doshaquiz" id="vata6" name="question6" onclick="getTotal()" type="radio" value="1"> Warm</label><br>
+<label><input form="doshaquiz" id="kapha6" name="question6" onclick="getTotal()" type="radio" value="1"> Cool</label><br>
+<label><input form="doshaquiz" id="pitta6" name="question6" onclick="getTotal()" type="radio" value="1"> Cool and dry</label></div>
+
+<div class="col-xs-12 col-md-6 b20">&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>7. How is your memory?</strong><br>
+<label><input form="doshaquiz" id="vata7" name="question7" onclick="getTotal()" type="radio" value="1"> I learn quickly, but I also forget quickly.</label><br>
+<label><input form="doshaquiz" id="pitta7" name="question7" onclick="getTotal()" type="radio" value="1"> I have a great memory!</label><br>
+<label><input form="doshaquiz" id="kapha7" name="question7" onclick="getTotal()" type="radio" value="1"> It takes me a while to commit something to memory, but once I do I don’t forget it.</label></div>
+
+<div class="col-xs-12 col-md-6 b20">&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>8. Which best describes your personality?</strong><br>
+<label><input form="doshaquiz" id="kapha8" name="question8" onclick="getTotal()" type="radio" value="1"> Responsible, nurturing, and sensitive</label><br>
+<label><input form="doshaquiz" id="vata8" name="question8" onclick="getTotal()" type="radio" value="1"> Creative, joyful, and introspective</label><br>
+<label><input form="doshaquiz" id="pitta8" name="question8" onclick="getTotal()" type="radio" value="1"> Competitive, perceptive, and efficient</label></div>
+
+<div class="col-xs-12 col-md-6 b20">&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>9. Which of these traits do you most identify with?</strong><br>
+<label><input form="doshaquiz" id="kapha9" name="question9" onclick="getTotal()" type="radio" value="1"> I can be pretty stubborn.</label><br>
+<label><input form="doshaquiz" id="pitta9" name="question9" onclick="getTotal()" type="radio" value="1"> I get jealous easily.</label><br>
+<label><input form="doshaquiz" id="vata9" name="question9" onclick="getTotal()" type="radio" value="1"> I’m often indecisive.</label></div>
+
+<div class="col-xs-12 col-md-6 b20">&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>10. How about these traits? Which sounds the <em>most</em> like you?</strong><br>
+<label><input form="doshaquiz" id="vata10" name="question10" onclick="getTotal()" type="radio" value="1"> I’m very intuitive.</label><br>
+<label><input form="doshaquiz" id="pitta10" name="question10" onclick="getTotal()" type="radio" value="1"> I’m quite brave.</label><br>
+<label><input form="doshaquiz" id="kapha10" name="question10" onclick="getTotal()" type="radio" value="1"> I’m a loyal, faithful friend.</label></div>
+
+<div class="col-xs-12 col-md-6 b20">&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>11. And these? Which sounds the most like you?</strong><br>
+<label><input form="doshaquiz" id="vata11" name="question11" onclick="getTotal()" type="radio" value="1"> I’m often restless.</label><br>
+<label><input form="doshaquiz" id="pitta11" name="question11" onclick="getTotal()" type="radio" value="1"> I can be irritable and impatient.</label><br>
+<label><input form="doshaquiz" id="kapha11" name="question11" onclick="getTotal()" type="radio" value="1"> I’m a loyal, faithful friend.</label></div>
+</div>
+
+<p>The following questions relate to how you act/feel when you’re under stress.<br>
+When you’re under stress do you tend to…</p>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>12. Experience insomnia?</strong><br>
+<label><input form="doshaquiz" id="vata12" name="question12" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question12" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>13. Feel complacent?</strong><br>
+<label><input form="doshaquiz" id="kapha12" name="question13" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question13" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>14. Develop rashes or hives?</strong><br>
+<label><input form="doshaquiz" id="pitta12" name="question14" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question14" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>15. Lose weight?</strong><br>
+<label><input form="doshaquiz" id="vata13" name="question15" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question15" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>16. Experience constipation or excess gas?</strong><br>
+<label><input form="doshaquiz" id="vata14" name="question16" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question16" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>17. Overeat or lose your appetite?</strong><br>
+<label><input form="doshaquiz" id="kapha13" name="question17" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question17" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>18. Drink alcohol to excess?</strong><br>
+<label><input form="doshaquiz" id="pitta13" name="question18" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question18" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>19. Feel lazy or inert?</strong><br>
+<label><input form="doshaquiz" id="kapha14" name="question19" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question19" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>20. Easily lose your temper?</strong><br>
+<label><input form="doshaquiz" id="pitta14" name="question20" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question20" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>21. Retain water?</strong><br>
+<label><input form="doshaquiz" id="kapha15" name="question21" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question21" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>22. Seek change?</strong><br>
+<label><input form="doshaquiz" id="vata15" name="question22" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question22" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>23. Sweat a lot or have excess body odor?</strong><br>
+<label><input form="doshaquiz" id="pitta15" name="question23" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question23" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>24. Feel anxious or fearful? </strong><br>
+<label><input form="doshaquiz" id="vata16" name="question24" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question24" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>25. Eat hot, spicy foods?</strong><br>
+<label><input form="doshaquiz" id="pitta16" name="question25" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question25" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>26. Experience gastritis or ulcers?</strong><br>
+<label><input form="doshaquiz" id="pitta17" name="question26" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question26" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>27. Feel restless?</strong><br>
+<label><input form="doshaquiz" id="vata17" name="question27" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question27" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6 b20"><strong>28. Sleep a lot?</strong><br>
+<label><input form="doshaquiz" id="kapha16" name="question28" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question28" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+
+<div class="col-xs-12 col-md-6 b20"><strong>29. Put on weight?</strong><br>
+<label><input form="doshaquiz" id="kapha17" name="question29" onclick="getTotal()" type="radio" value="1"> Yes</label><br>
+<label><input form="doshaquiz" id="" name="question29" onclick="getTotal()" type="radio" value="1"> No</label><br>
+&nbsp;</div>
+</div>
+</form>
+
+<p>Once you know your dosha (the one with the highest number), you can read all about it and get more information.</p>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="padding:5px">
+			<div id="display-vata-total"><strong>Vata: 0</strong></div>
+			<span><a class="arrow" href="/resources/tips-balancing-vata" style="font-size: 22px;">Read more about Vata</a></span></td>
+			<td style="padding:5px">
+			<div id="display-pitta-total"><strong>Pitta: 0</strong></div>
+			<span><a class="arrow" href="/resources/dosha-notions-pitta-balance" style="font-size: 22px;">Read more about Pitta</a></span></td>
+			<td style="padding:5px">
+			<div id="display-kapha-total"><strong>Kapha: 0</strong></div>
+			<span><a class="arrow" href="/resources/nine-yoga-poses-balance-your-kapha" style="font-size: 22px;">Read more about Kapha</a></span></td>
+		</tr>
+	</tbody>
+</table>
+<script type="text/javascript">
+  function getTotal()
+  {
+         var kaphaSum= 0;
+         var pittaSum= 0;
+         var vataSum= 0;
+         for (var i=1;i<=17;i++) {
+             var kaphaItem = document.getElementById('kapha'+i);
+             if(kaphaItem.checked)
+             {
+              if (isNaN(+kaphaItem.value)) { kaphaSum = 'N/A'; }
+              else { kaphaSum+= +kaphaItem.value; }
+             }
+         }
+         for (var i=1;i<=17;i++) {
+             var pittaItem = document.getElementById('pitta'+i);
+             if(pittaItem.checked)
+             {
+              if (isNaN(+pittaItem.value)) { pittaSum = 'N/A'; }
+              else { pittaSum+= +pittaItem.value; }
+             }
+         }
+         for (var i=1;i<=17;i++) {
+             var vataItem = document.getElementById('vata'+i);
+             if(vataItem.checked)
+             {
+              if (isNaN(+vataItem.value)) { vataSum = 'N/A'; }
+              else { vataSum+= +vataItem.value; }
+             }
+         }
+         document.getElementById('display-kapha-total').innerHTML = '<strong>Kapha: ' + kaphaSum + '</strong>';
+         document.getElementById('display-pitta-total').innerHTML = '<strong>Pitta: ' + pittaSum + '</strong>';
+         document.getElementById('display-vata-total').innerHTML = '<strong>Vata: ' + vataSum + '</strong>';
+    }      
+</script>
+
+<p>&nbsp;</p>
+</div>
+  </div>
+        </div>
+      </section>
+    </section>
+
+        <section class="outer-wrapper cross-promotion-section">
+      <section class="inner-wrapper">
+        <div class="section-header">
+                    <h2>You Might Also Be Interested In</h2>
+                  </div>
+        <div class="row" data-module="equalHeight">
+        
+<div class="span-5 media media--cross-promotion" data-orientation="vertical">
+  <article data-history-node-id="4" class="node node--type-general-page node--view-mode-card">
+    
+    
+    <div class="node__content">
+            <div class="media__image">
+        <div style="background-image: url('images/5ByfGZGnUdl9.jpeg');"></div>
+        <!-- NOTE: Retina image size is roughly 600x375 regular size is 310x194 -->
+      </div>
+            <div class="media__text">
+                <a href="/content/upcoming-programs-workshops-and-trainings" data-icon="arrow-r">
+<span>Upcoming Programs, Workshops, and Trainings</span>
+</a>
+
+                <p class="summary">Explore all of Kripalu's online programs, workshops, and trainings.</p>
+              </div>
+    </div>
+  </article>
+</div>
+
+<div class="span-5 media media--cross-promotion" data-orientation="vertical">
+  <article data-history-node-id="22" class="node node--type-general-page node--view-mode-card">
+    
+    
+    <div class="node__content">
+            <div class="media__image">
+        <div style="background-image: url('images/2zEA89jsvAM7.jpg');"></div>
+        <!-- NOTE: Retina image size is roughly 600x375 regular size is 310x194 -->
+      </div>
+            <div class="media__text">
+                <a href="/content/resources" data-icon="arrow-r">
+<span>Resources</span>
+</a>
+
+                <p class="summary">Kripalu faculty and experts share their views on yoga, health and wellness, nutrition, relationships, creativity, and spirituality.</p>
+              </div>
+    </div>
+  </article>
+</div>
+
+<div class="span-5 media media--cross-promotion" data-orientation="vertical">
+  <article data-history-node-id="191" class="node node--type-general-page node--view-mode-card">
+    
+    
+    <div class="node__content">
+            <div class="media__image">
+        <div style="background-image: url('images/vD0V4jNcH06A.jpg');"></div>
+        <!-- NOTE: Retina image size is roughly 600x375 regular size is 310x194 -->
+      </div>
+            <div class="media__text">
+                <a href="/content/sign-kripalu-emails" data-icon="arrow-r">
+<span>Sign Up for Kripalu Emails</span>
+</a>
+
+                <p class="summary">Sign up for receive updates on the latest from Kripalu.</p>
+              </div>
+    </div>
+  </article>
+</div>
+
+        </div>
+      </section>
+    </section>
+    
+  </div>
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+            </section>
+            </main>
+
+    <!-- Sidebars -->
+        
+    <!-- Footer -->
+          <div class="region region-footer">
+	<footer role="contentinfo" class="outer-wrapper global-footer">
+		<div class="inner-wrapper footer-content">
+            
+
+<div id="block-kripalud10-theme-footer" class="block block-block-content block-block-content8a325e75-c246-4dd7-b685-405679dc1b0f">
+  
+    
+      <div class="block__content">
+      <div class="entity entity-bean bean-basic">
+	<div class="content">
+					<div class="row" itemscope="" itemtype="http://schema.org/LocalBusiness">
+<div class="span-5">
+<h2>Contact Us</h2>
+
+<p class="pipe">registration@kripalu.org<br>
+413.448.3500<br>
+Monday–Friday 9:00 am–5:00 pm EST</p>
+
+<p><span class="schema" itemprop="name">Kripalu Center for Yoga &amp; Health</span><br>
+<span class="schema" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span class="schema" itemprop="streetAddress">57 Interlaken Road</span><br>
+<span class="schema" itemprop="addressLocality">Stockbridge</span>, <span class="schema" itemprop="addressRegion">MA</span> <span class="schema" itemprop="postalCode">01262</span> </span></p>
+<a href="/stay/directions">Directions</a> <a href="/content/payment-and-cancellations">Payment &amp; Cancellations</a></div>
+
+<div class="span-5">
+<h2>Mission Driven, Donor Supported</h2>
+<br>
+<span>We are a nonprofit educational organization dedicated to empowering people and communities to realize their full potential through the transformative wisdom and practice of yoga.</span>
+
+<p>&nbsp;</p>
+<a href="/content/donate-now">Make a gift</a> <a href="/about/kripalu/work-us">Employment Opportunities</a> <a href="/content/website-accessibility-commitment">Website Accessibility</a> &nbsp;</div>
+
+<div class="span-5">
+<div class="subscribtion-form">
+<div class="subscribtion-form-wp">
+<h2>Stay connected</h2>
+<!--[if lte IE 8]>
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+        <![endif]--><script charset="utf-8" type="text/javascript" src="js/3jLYkyw0rUmj.js"></script><script> hbspt.forms.create({ region: 'na1', portalId: '6877407', formId: '402d64de-f836-420d-9e8a-a6858c217eed' });</script></div>
+</div>
+
+<h2>Connect With Us</h2>
+
+<div class="social social--footer">
+<ul>
+	<li>&nbsp;</li>
+	<li><a data-icon="facebook" href="https://www.facebook.com/kripalucenter/" target="_blank" title="Facebook">&nbsp;</a></li>
+	<li><a data-icon="instagram" href="https://instagram.com/kripalucenter" target="_blank" title="Instagram">&nbsp;</a></li>
+	<li><a data-icon="youtube" href="https://www.youtube.com/channel/UC_rqXhGuc0aLz7tHd8SsefQ" target="_blank" title="YouTube">&nbsp;</a></li>
+	<li><a data-icon="twitter" href="https://twitter.com/kripalucenter" target="_blank" title="Twitter">&nbsp;</a></li>
+	<li><a data-icon="tripadvisor" href="https://www.tripadvisor.com/Hotel_Review-g41639-d142170-Reviews-Kripalu_Center_for_Yoga_Health-Lenox_Massachusetts.html" target="_blank" title="Trip Advisor">&nbsp;</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="span-10 footer-copyright">
+<div class="left">Copyright © 2024 Kripalu Center for Yoga &amp; Health. All rights reserved.</div>
+
+<div class="right"><a href="/privacy-policy">Privacy Policy</a> <a href="/terms-and-conditions">Website Terms of Use</a></div>
+</div>
+</div>
+
+			</div>
+</div>
+
+    </div>
+  </div>
+
+		</div>
+	</footer>
+</div>
+
+    </div> <!-- /.page-frame -->
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/54156","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"q":"content\/whats-your-dosha"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/search":true},"user":{"uid":0,"permissionsHash":"9a5f81d25413c4a10c089a9ce86d22fb0bee24be9676c5772ac4584776fcf6da"}}</script>
+<script src="js/I3wjrDMJKG06.js"></script>
+<script src="js/xM114qdRvqZu.js" type="module"></script>
+<script src="js/9R44suk6AdB8.js"></script>
+<script src="js/GYd1yOzBFA4k.js" type="module"></script>
+<script src="js/ROO1oFC9v5ue.js"></script>
+
+  
+
+</body></html>

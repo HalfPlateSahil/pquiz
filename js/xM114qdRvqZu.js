@@ -49,7 +49,7 @@ import { moduleRegistry } from './modules/index.js';
     $(document).ready(function () {
 
         $('.hs-button').each(function (i, v) {
-            $('this').css({ "background-color": '#87027B', "border-color": '#87027B' });
+            $('this').css({ "background-color": '#00913a', "border-color": '#00913a' });
             console.log($('this'));
         });
 
